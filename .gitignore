@@ -1,0 +1,28 @@
+
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+
+# Build directories
+build/
+cmake-build-*/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Python plotting environment
+.venv/
+__pycache__/
+*.pyc
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary benchmark files
+*.tmp
+*.log
