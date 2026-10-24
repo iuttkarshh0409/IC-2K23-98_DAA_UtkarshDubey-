@@ -1,0 +1,13 @@
+InputSize,Algorithm,AverageTimeMicroseconds,AllRunsSorted
+1000,Merge Sort,156.26,PASS
+1000,Quick Sort,129.14,PASS
+1000,Heap Sort,213.18,PASS
+5000,Merge Sort,655.46,PASS
+5000,Quick Sort,561.86,PASS
+5000,Heap Sort,941.58,PASS
+10000,Merge Sort,1418.38,PASS
+10000,Quick Sort,1175.3,PASS
+10000,Heap Sort,2522.68,PASS
+20000,Merge Sort,2466.12,PASS
+20000,Quick Sort,2160,PASS
+20000,Heap Sort,3871.18,PASS
